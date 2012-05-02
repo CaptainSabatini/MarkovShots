@@ -1,0 +1,7 @@
+Note, in order to run this program the following libraries are needed.
+libgcc_s_dw2-1.dll
+mingwm10.dll
+QtCore4.dll
+QtGui4.dll
+QtOpenGL4.dll
+I did not write these libraries so they are not included by me.
